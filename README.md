@@ -17,11 +17,9 @@
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java)
 
-![.NET](https://img.shields.io/badge/-.NET-090909?style=for-the-badge&logo=dotnet)
 ![WPF](https://img.shields.io/badge/-WPF-090909?style=for-the-badge&logo=dotnet)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git)
 ![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=mysql)
 ![CloudFlare](https://img.shields.io/badge/-CloudFlare-090909?style=for-the-badge&logo=cloudflare)
 ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=linux)
-![Kali](https://img.shields.io/badge/-Kali-090909?style=for-the-badge&logo=kali)
