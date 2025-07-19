@@ -11,8 +11,7 @@
 </html>
 
 ![C#](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C](https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=c)
-![Pawn](https://img.shields.io/badge/-Pawn-090909?style=for-the-badge&logo=Pawn)
+![Pawn](https://img.shields.io/badge/-Pawn-090909?style=for-the-badge&logo=c)
 ![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=php)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java)
