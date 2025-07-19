@@ -17,6 +17,7 @@
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java)
 ![JS](https://img.shields.io/badge/-JS-090909?style=for-the-badge&logo=javascript)
+![JS](https://img.shields.io/badge/-Lua-090909?style=for-the-badge&logo=lua)
 
 ![WPF](https://img.shields.io/badge/-WPF-090909?style=for-the-badge&logo=dotnet)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker)
