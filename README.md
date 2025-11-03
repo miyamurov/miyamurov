@@ -10,15 +10,13 @@
   </body>
 </html>
 
-![C#](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Pawn](https://img.shields.io/badge/-Pawn-090909?style=for-the-badge&logo=c)
-![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=php)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java)
 ![JS](https://img.shields.io/badge/-JS-090909?style=for-the-badge&logo=javascript)
-![JS](https://img.shields.io/badge/-Lua-090909?style=for-the-badge&logo=lua)
 
 ![WPF](https://img.shields.io/badge/-WPF-090909?style=for-the-badge&logo=dotnet)
+![Spring Boot](https://img.shields.io/badge/-Spring-090909?style=for-the-badge&logo=spring)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git)
 ![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=mysql)
